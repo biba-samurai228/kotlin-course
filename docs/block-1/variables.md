@@ -56,7 +56,7 @@ val integer: Int = 999
 val long: Long = 999_999_999 // для більш простого читання чисел '_'
 val float: Float = 1.0f // додається 'f' для Float 
 val double: Double = 999.99
-val string: String = "я рядок"
+val string: String = "я хочу пітси"
 ```
 Також існують деякі інші вбудовані типи даних, але ми їх поки що розглядати не будемо.
 ### Висновок
